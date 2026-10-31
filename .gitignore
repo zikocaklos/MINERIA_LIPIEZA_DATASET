@@ -1,0 +1,11 @@
+.venv/
+.venv-anterior*/
+__pycache__/
+*.py[cod]
+*.log
+.pytest_cache/
+salida/
+dump.csv
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
